@@ -1,0 +1,13 @@
+#row{
+    margin-left: 250px;
+}
+#button-add{
+    margin: 15px 250px;
+    background-color: rgb(58 128 186);
+    color: rgb(255, 255, 255);
+    width: 4.3%;
+    height: 26px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 5px;
+}

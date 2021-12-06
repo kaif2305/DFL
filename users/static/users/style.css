@@ -1,0 +1,35 @@
+section{
+    background-color: #2C7873;
+   /* background: url(../asset/crowdfunding-g276fd4f1b_1280.png);
+   background-size: 12px; */
+}
+.logo{
+    height:50px;
+}
+.py-10 {
+    padding-top: 1.5rem;
+}
+#Kaif
+{
+   margin: 0 47px; 
+   
+}
+#button-u{
+    padding: 4px 13px;
+    margin: 20px 112px;
+    font-size: 20px;
+   
+}
+.ml-3 {
+    margin-left: -13px;
+}
+.text-xl {
+    font-size: 26px;
+}
+#sticky1{
+    position: sticky;
+}
+
+#align{
+    max-width: 50%;
+}
